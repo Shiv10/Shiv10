@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Shiv10&theme=github">
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
