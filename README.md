@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shiv10&show_icons=true&theme=radical%22%3E"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Shiv10&show_icons=true&theme=dark"></img>
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Shiv10&theme=github">
