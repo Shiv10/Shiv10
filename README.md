@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Shiv10&theme=github">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv10&layout=compact&theme=dark">
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
