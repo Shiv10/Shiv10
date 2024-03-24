@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shiv10&show_icons=true&theme=dark"></img>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv10&layout=compact&theme=dark">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
